@@ -9,6 +9,8 @@
 
 ![Dreisdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dreisdev&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreisdev&langs_count=8)](https://github.com/dreisdev/github-readme-stats)
+
 
 ### Tecnologias que eu uso no meu dia
  <div style="display: inline_block"><br/>
