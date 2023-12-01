@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### Muito prazer, meu nome é Diego Reis. Natural de Simões Filho, Bahia, e como um bom baiano, amo comer acarajé, ah também sou torcedor do Bahêa. No tempo livre, gosto de estar com minha família, assistindo um bom filme e dando muitas risadas. Também gosto de assistir séries, apreciar um bom café e ler livros dos mais variados temas.
-##### Sempre achei o máximo ver as telas dos computadores com os códigos de programação e tinha curiosidade de saber como os sistemas funcionam. Foi então que comecei a pesquisar sobre o mundo de programação e comecei a me apaixonar pela área de desenvolvimento de Software, tomando assim a decisão de fazer uma transição de carreira. Sou Desenvolvedor Fullstack Júnior formado pela Cubos Academy. 
+##### Sempre achei o máximo ver as telas dos computadores com os códigos de programação e tinha curiosidade de saber como os sistemas funcionam. Foi então que comecei a pesquisar sobre o mundo de programação e comecei a me apaixonar pela área de desenvolvimento de Software, tomando assim a decisão de fazer uma transição de carreira. Sou Desenvolvedor Fullstack formado pela Cubos Academy. 
 
 
 ### Contato
